@@ -1,0 +1,54 @@
+p{
+    text-align: center;
+    margin: auto;
+    text-shadow:1cm;
+    background-color:blueviolet;
+    height: 50px;
+    border-radius: 1ch;    
+    width: 400px;
+    font-size: 30px;
+
+}
+div#h1{
+    
+}
+form{
+    text-align: center;
+}
+div#c1{
+    
+    margin: auto;
+    border-radius: 0.5ch;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 100px;
+    
+    width: 400px;
+    background-color:white;
+    align-items: center;
+    text-align: center;
+}
+
+#c3{
+    margin: auto;
+    
+    width: 300px;
+    height: 100px;
+    background-color: gray;
+}
+#c2{
+    background-color: black;
+    color: aliceblue;
+    height: 400px;
+    width: 500px;
+    text-align:left;
+    margin-left: 1000px;
+    
+}
+body{
+    background-image: url("do.jpg")
+}
+button{
+    margin-top: 0.5cm;
+    border-width: 10px;
+}
